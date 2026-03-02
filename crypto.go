@@ -19,7 +19,7 @@ import (
 	"hash"
 	"io"
 
-	"github.com/invopop/go-pkcs12/internal/rc2"
+	"software.sslmate.com/src/go-pkcs12/internal/rc2"
 	"golang.org/x/crypto/pbkdf2"
 )
 
