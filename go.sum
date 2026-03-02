@@ -1,0 +1,4 @@
+github.com/invopop/x509tolerant v0.1.0 h1:l/1id1MFo8h72jNvrnhn+fWkC3Y618DOTALuCihAp2w=
+github.com/invopop/x509tolerant v0.1.0/go.mod h1:FRr+LLNSfMQh7Pc3JUmV4QIbdKGv827eTJkY5QEVIHQ=
+golang.org/x/crypto v0.48.0 h1:/VRzVqiRSggnhY7gNRxPauEQ5Drw9haKdM0jqfcCFts=
+golang.org/x/crypto v0.48.0/go.mod h1:r0kV5h3qnFPlQnBSrULhlsRfryS2pmewsg+XfMgkVos=
